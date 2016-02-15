@@ -1,3 +1,4 @@
+*Project created using Stephen Grider's ReduxSimpleStarter repo, in conjunction with his Udemy React/Redux course* 
 # ReduxSimpleStarter
 
 ###Getting Started###
